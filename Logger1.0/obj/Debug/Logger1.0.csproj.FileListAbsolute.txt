@@ -1,0 +1,6 @@
+C:\Users\Anna Davis\source\repos\Logger1.0\Logger1.0\bin\Debug\Logger1.0.dll
+C:\Users\Anna Davis\source\repos\Logger1.0\Logger1.0\bin\Debug\Logger1.0.pdb
+C:\Users\Anna Davis\source\repos\Logger1.0\Logger1.0\obj\Debug\Logger1.0.csproj.AssemblyReference.cache
+C:\Users\Anna Davis\source\repos\Logger1.0\Logger1.0\obj\Debug\Logger1.0.csproj.CoreCompileInputs.cache
+C:\Users\Anna Davis\source\repos\Logger1.0\Logger1.0\obj\Debug\Logger1.0.dll
+C:\Users\Anna Davis\source\repos\Logger1.0\Logger1.0\obj\Debug\Logger1.0.pdb
